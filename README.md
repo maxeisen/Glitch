@@ -1,6 +1,6 @@
 # Glitch
 ### Glitch is a final project for CISC 226 at Queen's University.
-Available for play at: https://tamirarnesty.github.io/glitchGame/
+> Available for play at: https://tamirarnesty.github.io/glitchGame/
 
 ## Game Concept
 Glitch is an isometric platformer, with a unique mechanic that allows the player to play the game in two different states - ___glitched___ and ___default___ - at the press of a button.
@@ -24,3 +24,8 @@ The character in the game is a small checkered cube centered in the screen that 
 The game will be developed using the Unity 2D game engine and the C# programming language. All original assets, including game levels, hazards, characters, any of the visual mechanics and more, will be designed and created using design tools such as Photoshop and Blender. Audio assets will be created using Garageband or Audacity, or similar tools, and may also be drawn from royalty-free sources such as Incompetech or Freesound.
 
 As learning guides and resources for the project, we used various online tutorials and documentation in order to develop a game with clean and efficient code. Some of these resources are raywenderlich.com, as well as the official Unity API Documentation. We utilized our prior knowledge as well as the resources at our disposal for the development of the project.
+
+## Authors
+* Tamir Arnesty – [LinkedIn](https://www.linkedin.com/in/tamirarnesty/ "Tamir Arnesty LinkedIn")
+* Max Eisen – [LinkedIn](https://www.linkedin.com/in/maxeisen/ "Max Eisen LinkedIn")
+* Aaron Safer-Rosenthal – [LinkedIn](https://www.linkedin.com/in/aaron-safer-rosenthal-770b89163/ "Aaron Safer-Rosenthal LinkedIn")
