@@ -1,5 +1,6 @@
 # Glitch
 ### Glitch is a final project for CISC 226 at Queen's University.
+Available for play at: https://tamirarnesty.github.io/glitchGame/
 
 ## Game Concept
 Glitch is an isometric platformer, with a unique mechanic that allows the player to play the game in two different states - ___glitched___ and ___default___ - at the press of a button.
