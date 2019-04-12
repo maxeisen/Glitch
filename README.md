@@ -3,7 +3,7 @@
 > Available for play at: https://tamirarnesty.github.io/glitchGame/
 
 ## Game Concept
-Glitch is an isometric platformer, with a unique mechanic that allows the player to play the game in two different states - ___glitched___ and ___default___ - at the press of a button.
+Glitch is an monochromatic platformer, with a unique mechanic that allows the player to play the game in two different states - ___glitched___ and ___default___ - at the press of a button.
 
 In Glitch, the objective is for the player to reach the end of each level by making use of the unique “glitching” mechanic implemented in the game. This mechanic will allow the player to switch between the level’s two states and see elements of the level that were not previously visible. The player will have to utilize the glitch mechanic in order to complete various levels. The player will begin the game with a simple tutorial level to get them accustomed to this mechanic. The game will advance and become more difficult as the player progresses through the levels.
 
